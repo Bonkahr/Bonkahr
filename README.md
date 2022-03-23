@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python and java development 
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Python, Django and Data Science projects.
-- 📫 How to reach me out with my email: karanjabonaface31@gmail.com
+- 📫 You can reach me on: karanjabonaface31@gmail.com
