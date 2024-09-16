@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Python, Django, FastAPI and Data Science projects.
 - 📫 You can reach me on: karanjabonface31@gmail.com
+- Check out more about me on https://www.bonkahr.co.ke/portfolio/
