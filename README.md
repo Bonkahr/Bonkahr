@@ -3,5 +3,5 @@
 - ✅ I have good experience in back-end web development using Django and FastAPI.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Python, Django, FastAPI and Data Science projects.
-- 📫 You can reach me on: karanjabonface31@gmail.com
-- Check out more about me on https://www.bonkahr.co.ke/portfolio/
+- 📫 You can reach me on: karanjagakingo@gmail.com
+- Check out more about me on https://www.bonkahr.pythonanywhere.com/portfolio/
